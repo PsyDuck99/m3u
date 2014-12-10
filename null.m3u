@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1,6’eren
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(6eren)/Stream(05)/index.m3u8
+
+#EXTINF:-1,7’eren ???
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(7eren)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Animal Planet
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Animal)/Stream(05)/index.m3u8
+
+#EXTINF:-1,BBC Knowledge
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcK)/Stream(05)/index.m3u8
+
+#EXTINF:-1,BBC Lifestyle
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcL)/Stream(05)/index.m3u8
+
+#EXTINF:-1,BBC World
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcW)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Canal 8
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(canal8)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Canal 9
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(canal9)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(cartoo)/Stream(05)/index.m3u8
+
+#EXTINF:-1,CNN
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(cnn)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(discov)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Disney Channel
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Disney)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Disney Channel XD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DisnXD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Disney Junior
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(disnjr)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DR 1
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR1)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DR 3
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR3)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DR K
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRk)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DR Ramasjang
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRram)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DR Ultra
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRultra)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DR2
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR2)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Eurosport
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(EuroSp)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Eurosport 2
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(eusp2)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Kanal 10 Älmhult (Sweden)
+rtmp://cdn-kanal10.crossnet.net/kanal10/mpegts.stream
+#EXTINF:-1,Kanal 4
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(kanal4)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Kanal 5
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Kanal5)/Stream(05)/index.m3u8
